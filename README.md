@@ -28,6 +28,10 @@ This Verilog module implements a VGA controller that displays a movable red tria
 ## Usage
 Connect the module inputs to the FPGA board clock, reset, and buttons. Connect the outputs to the VGA interface. Use the buttons to move the red triangle around the screen.
 
+## Demo Video
 
+
+
+https://github.com/user-attachments/assets/212855bd-7d5f-49c6-b566-1db62e08488c
 
 
